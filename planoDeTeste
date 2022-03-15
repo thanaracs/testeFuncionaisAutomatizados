@@ -1,0 +1,61 @@
+1. Nome do projeto:
+- Realizar o login no site Creative-Tim
+2. Resumo:
+- Para realizar o acesso aos seus dados logados, o usuário
+precisa fazer login na plataforma.
+3. Pessoas envolvidas:
+- Thainara Carvalho da Silva (usuário).
+4. Funcionalidades ou módulos para serem testados (escopo /
+alvo):
+- Login de usuario (usuário tenta fazer login).
+- Usuário tem uma conta valida no sistema.
+- CT1 - Login em branco senha valida.
+- CT2 - Login em branco e senha em branco.
+- CT3 - Login valido e senha em branco.
+- CT4 - Login valido e senha invalida.
+- CT5 - Login valido.
+- Login com usuario valido.
+5. Local dos testes:
+- Computador ou notebook com acesso à internet cabeada ou
+wi-fi.
+- Site com permissão para realizar teste.
+- Programa Katalon Studio.
+6. Recursos area (software, rede, sala, verba…):
+- Computador com acesso à internet, sendo ela cabeada ou
+pelo wi-fi.
+- Site com permissão para realizar teste e com acesso a login
+de usuário
+- contas de usuários válidas para realizar verificação.
+- É necessário a instalação software Katalon Studio para
+testagem dos casos de uso.
+7. Critérios utilizados:
+- Casos de Teste
+- Entrada
+- CT1 - Login em branco senha válido.
+- CT2 - Login em branco e senha em branco.
+- CT3 - Login válido e senha em branco.
+- CT4 - Login e senha invalido.
+- CT5 - Login válido.
+- Login com usuário válido.
+- Para cada caso de testes, será feito uma vez manualmente
+e verificado os parâmetros do caso envolvido, em seguida
+será gravado os passos pelo sistema e testado. Alguns
+deles necessitarão de edição dentro do próprio programa,
+acrescentando a mensagem final do teste.
+- Foi realizado a amostragem com dois usuários válidos no
+site, feito o login até a tela inicial do ambiente dos usuários.
+8. Riscos:
+- Seria um dos riscos não possuir um computador ou
+notebook para a realização do teste.
+- Seria outro risco, não possuir acesso à internet.
+- Seria outro risco, não salvar em uma nuvem, HD ou pendrive,
+para caso de perca ou defeito na máquina.
+- Seria um risco o site detectar a automatização como acesso
+robótico e não permitir mais o login efetuado.
+9. Como os resultados do teste serão divulgados:
+- Relatório dos resultados dos testes em formato em pdf.
+- A métrica usada é quantitativa(6/6=1*100=100%).
+10.Cronograma:
+Período para realizar o teste: 01/01/2022 - 04/3/2022
+Tabulação de dados: 05/03/2022 - 15/03/2022
+Entrega dos Resultados: 16/02/2022.
