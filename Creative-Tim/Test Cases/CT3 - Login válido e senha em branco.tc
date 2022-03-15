@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT3 - Login válido e senha em branco</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8db1e16-563f-49f7-852c-71f436527ac1</testCaseGuid>
+</TestCaseEntity>

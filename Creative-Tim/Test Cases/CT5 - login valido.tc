@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT5 - login valido</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06389399-ad0a-4d60-8aa9-184d8669e92a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5c3705c-81b6-41d5-85f2-71d6c12a373d</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>799b9db3-7ab4-4fc9-8d91-3f1f17eed69a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
